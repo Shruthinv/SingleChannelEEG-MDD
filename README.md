@@ -55,6 +55,6 @@ The Random Forest implementation additionally generates:
 
 ## Requirements
 
-The code was developed using Python 3.
+The code was developed using Python 3.9.
 
 
