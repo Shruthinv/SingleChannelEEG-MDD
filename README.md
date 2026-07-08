@@ -21,7 +21,7 @@ Each model is evaluated using:
 
 ## Dataset
 
-Each script expects one feature file for a single EEG channel (e.g., `Feat_C3_final.csv`) with the following columns:
+Each script expects one feature file for a single EEG channel (e.g., `Feat_Fp1_final.csv`) with the following columns:
 
 - Segment
 - Subject_ID
@@ -34,7 +34,7 @@ Each script expects one feature file for a single EEG channel (e.g., `Feat_C3_fi
 
 Select the desired EEG channel inside the script, for example:
 
-CHANNEL = "C3"
+CHANNEL = "Fp1"
 
 Run the corresponding model
 
