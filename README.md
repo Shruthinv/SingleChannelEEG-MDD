@@ -21,8 +21,6 @@ Each model is evaluated using:
 
 ## Dataset
 
-The experiments were conducted using a publicly available resting-state EEG dataset. Please obtain the original EEG dataset from the source referenced in the manuscript and generate the required feature matrices following the methodology described in the paper.
-
 Each script expects one feature file for a single EEG channel (e.g., `Feat_C3_final.csv`) with the following columns:
 
 - Segment
